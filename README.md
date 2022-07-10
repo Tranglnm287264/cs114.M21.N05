@@ -12,4 +12,4 @@ Tất cả các file notebook .ipynb có thể chạy dễ dàng trên Google Co
 - File "Demo_Đồ_án_cuối_kỳ.ipynb" dùng để chạy model với dataset
 - File "Crawling_data_from_youtube.ipynb" dùng để crawl bình luận từ youtube
 - File "youtube_data.xlsx - data3.csv" chứa dataset để chạy model 
-
+Lưu ý, không nên mở file csv bằng excel vì sẽ bị lỗi định dạng 
